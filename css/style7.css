@@ -1,0 +1,7 @@
+.products, .bikes, ul, ol {
+    position: relative;
+    color: red;
+    top: 50px;
+    left: 200px;
+    
+}
