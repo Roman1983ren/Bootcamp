@@ -1,12 +1,29 @@
-main-header h1,p,ul,li {
-    position: relative;
+#main-header h1 {
     color: red;
-    top: 50px;
-    left:500px;
+    height: 50px;
+    width: 200px;
+    margin: auto;
+    font-size: 3em;
+
 }
 
-header h1,p span {
-position: relative;
-color: blue;
+#main-header p {
+    color: black;
+    font-size: 2em;
+    width: 260px;
+    height: 70px;
+    margin: auto;
+}
 
+#main h1{
+color: bisque;
+width: 400px;
+height: 100px;
+margin: auto;
+}
+
+#main p{
+    color: chocolate;
+    width: 900px;
+    height: 250px;
 }
