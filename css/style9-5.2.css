@@ -1,15 +1,36 @@
-#header {
+ 
+#header .golan img{
     width: 100%;
-    height: 40%;
+    height: 400px;
+    box-shadow: 5px 5px 50px 10px;    
 }
 
 
+#header .golan #main .about-golan {
+    font-size: 20px; 
+}
 
+#header .golan #main .about-golan h1 {
+    height: 50px;
+    margin-top: 1px; 
+}
 
+#header .golan #main .about-golan p {
+    margin-top: 1px;
+    margin-bottom: 20px;
+}
 
+#header .golan{
+    background-color: bisque; 
+}
 
-
-#header .golan .img{
-    width: 100px;
+a {
+    padding: 40px;
+    color: coral;
+}
+#header {
+    display: block;
+    float: left;
+    width: 35%;
     
 }
