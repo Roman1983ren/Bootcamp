@@ -1,0 +1,24 @@
+.media h1{
+    background-color: blueviolet;
+    text-align: center;
+    color: black;
+}
+
+ @media(max-width:500px) {
+    .media h1 {
+    font-size: 0.5em;
+    background-color: red;
+}
+ }
+@media(min-width:501px) and (max-width:768px) {
+    .media h1 {
+    font-size: 1em;
+    background-color: green;
+}
+}
+@media (min-width:1000px) {
+    .media h1 {
+    font-size: 2em;
+    background-color: blue;
+}
+}
