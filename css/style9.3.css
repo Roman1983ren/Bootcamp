@@ -1,0 +1,18 @@
+#main {
+    display: flex;
+    border: 2px solid black;
+    width: 100%;
+
+}
+
+.BOX1, .BOX2, .BOX3 {
+    background-color: black;
+    color: aliceblue;
+}
+
+@media(max-width:768px) and (min-width:100px) {
+    .BOX1, .BOX3  {
+    display: none;
+
+    }
+}

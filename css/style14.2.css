@@ -1,0 +1,17 @@
+.box {
+    background-color: gray;
+    height: 300px;
+    width: 300px;
+    align-items: center;
+    border: 2px solid black;
+    margin: 100px;
+}
+
+.box:hover {
+
+height: 300px;
+width: 300px;
+
+
+}
+

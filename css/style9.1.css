@@ -16,7 +16,7 @@
     background-color: green;
 }
 }
-@media (min-width:1000px) {
+@media (min-width:769px) {
     .media h1 {
     font-size: 2em;
     background-color: blue;
